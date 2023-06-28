@@ -1888,7 +1888,7 @@ dependencies = [
 lock_version = "4.2"
 cross_platform = true
 groups = ["default"]
-content_hash = "sha256:ee3f3bbbc491ffdff5fdc1402f8e4dd96b07726256fc9314d0acf4313e1075fc"
+content_hash = "sha256:dcbb41a034a34b10c8702e829a64d7ba4cc6453bafdc7746e6a1b3c992734901"
 
 [metadata.files]
 "beautifulsoup4 4.12.2" = [
