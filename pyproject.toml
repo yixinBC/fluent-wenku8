@@ -1,0 +1,15 @@
+
+[project]
+name = "fluent-wenku8"
+version = "0.0.1"
+description = "an unofficial wenku8 desktop app,using python spider&gui(fluent Qt)"
+authors = [{ name = "yixinBC", email = "yixinbc@foxmail.com" }]
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.2",
+    "lxml>=4.9.2",
+    "lxml-stubs>=0.4.0",
+    "PyQt-Fluent-Widgets[full]>=0.10.0",
+]
+requires-python = ">=3.11"
+license = { text = "GPLv3" }
